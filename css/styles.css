@@ -525,3 +525,78 @@ p {
 .foot-soc-links:focus {
         background-color: #31d0aa;
 }
+
+
+
+
+
+.foot-scrb-box {
+        margin-left: 80px;
+}
+
+.foot-scrb-title {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #fff;
+        margin-bottom: 16px;
+}
+
+.foot-scrb-form {
+        display: flex;
+        gap: 24px;
+}
+
+.foot-scrb-input {
+        border: 1px solid #fff;
+        border-radius: 4px;
+        width: 264px;
+        height: 40px;
+        color: #ffffff;
+        background-color: transparent;
+        font-size: 12px;
+        line-height: 2;
+        letter-spacing: 0.04em;
+        padding-left: 16px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+
+}
+
+.foot-scrb-input ::placeholder{
+        color: #ffffff;
+}
+
+.foot-scrb-button {
+        font-family: inherit;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        gap: 16px;
+        cursor: pointer;
+        border: none;
+        border-radius: 4px;
+        padding: 8px 24px;
+        width: 165px;
+        height: 40px;
+        background-color: #4d5ae5;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        text-align: center;
+        color: #ffffff;
+}
+
+.foot-scrb-but-icon {
+        fill: #ffffff;
+}
+
+
+
+
+
+.backdrop {
+        
+}
